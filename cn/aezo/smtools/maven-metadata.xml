@@ -6,7 +6,8 @@
     <release>sm-minions-1.0</release>
     <versions>
       <version>sm-minions-1.0</version>
+      <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20171027030042</lastUpdated>
+    <lastUpdated>20171113142005</lastUpdated>
   </versioning>
 </metadata>

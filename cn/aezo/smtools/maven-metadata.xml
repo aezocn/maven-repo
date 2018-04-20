@@ -3,12 +3,13 @@
   <groupId>cn.aezo</groupId>
   <artifactId>smtools</artifactId>
   <versioning>
-    <release>web-grouphelp-1.0</release>
+    <release>sm-minions-1.1</release>
     <versions>
       <version>sm-minions-1.0</version>
       <version>0.0.1-SNAPSHOT</version>
       <version>web-grouphelp-1.0</version>
+      <version>sm-minions-1.1</version>
     </versions>
-    <lastUpdated>20171113144006</lastUpdated>
+    <lastUpdated>20180420133821</lastUpdated>
   </versioning>
 </metadata>

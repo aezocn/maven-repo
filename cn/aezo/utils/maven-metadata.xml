@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.aezo</groupId>
+  <artifactId>utils</artifactId>
+  <versioning>
+    <release>sm-minions-1.1</release>
+    <versions>
+      <version>sm-minions-1.0</version>
+      <version>0.0.1-SNAPSHOT</version>
+      <version>web-grouphelp-1.0</version>
+      <version>sm-minions-1.1</version>
+    </versions>
+    <lastUpdated>20180420133826</lastUpdated>
+  </versioning>
+</metadata>

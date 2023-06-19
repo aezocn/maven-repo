@@ -3,10 +3,11 @@
   <groupId>com.aspose</groupId>
   <artifactId>aspose-cells</artifactId>
   <versioning>
-    <release>21.11-crack</release>
+    <release>21.11-fix</release>
     <versions>
       <version>21.11-crack</version>
+      <version>21.11-fix</version>
     </versions>
-    <lastUpdated>20230429075618</lastUpdated>
+    <lastUpdated>20230619083142</lastUpdated>
   </versioning>
 </metadata>

@@ -3,14 +3,15 @@
   <groupId>cn.aezo.share.reporttable</groupId>
   <artifactId>report-table-parent</artifactId>
   <versioning>
-    <release>1.1.0-beta.2</release>
+    <release>1.2.1-2.3</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.1.0</version>
       <version>1.1.0-beta.1</version>
       <version>1.1.0-beta.2</version>
+      <version>1.2.1-2.3</version>
     </versions>
-    <lastUpdated>20230714070551</lastUpdated>
+    <lastUpdated>20231123162620</lastUpdated>
   </versioning>
 </metadata>
